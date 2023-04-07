@@ -1,0 +1,12 @@
+https://habr.com/ru/post/350648/   создание бота  -   парсера заголовков
+
+https://www.parsemachine.com/articles/urok-2-sohranyaem-rezultaty-parsinga-v-excel-tablicu-python/   parser and exel
+
+
+https://www.andreyolegovich.ru/i/sed/a/  sed
+https://gitjournal.tech/izuchaem-komandy-linux-komanda-sed-linux/  команды  sed
+sed -i '1i option opt-208 code 208 = string;' /etc/dhcp/dhclient.conf
+
+
+grep -F 'ntp-servers, ' sed1.txt | sed -ie 's/$/& opt-250, opt-251, opt-252, bootfile-name, tftp-server-address, opt-200, opt-204, opt-208;/g' sed1.txt
+
